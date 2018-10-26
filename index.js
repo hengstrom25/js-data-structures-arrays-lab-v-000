@@ -1,3 +1,3 @@
 // Write your solution here!
 
-let drivers = ["Milo", ""]
+let drivers = ['Milo', 'Otis', 'Garfield'];
